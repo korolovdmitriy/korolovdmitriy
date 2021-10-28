@@ -15,9 +15,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" width="40" height="40">
 
 ***
-**Get in touch:**</br>
+
 </br>
-<a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/korolovdmitriy"><img src="https://www.codewars.com/users/korolovdmitriy/badges/micro"></img></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/korolovdmitriy"><img src="https://www.codewars.com/users/korolovdmitriy/badges/large"></img></a>
 
 <!--
 **korolovdmitriy/korolovdmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
