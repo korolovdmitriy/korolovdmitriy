@@ -17,7 +17,7 @@
 ***
 
 </br>
-<a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/korolovdmitriy"><img src="https://www.codewars.com/users/korolovdmitriy/badges/large"></img></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/korolovdmitriy"><img src="https://www.codewars.com/users/korolovdmitro/badges/large"></img></a>
 
 <!--
 **korolovdmitriy/korolovdmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
