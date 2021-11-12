@@ -23,10 +23,17 @@
 ***
 
 ⚡ **Pet-progect**</br></br>
+
+Workshop: filters. Filter with a choice of one parameter and Multiple selection filter</br>
+<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/Patterns/">**Live page**</img></a></br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/Patterns">**View code**</img></a>
+</br></br>
+
 Front-end part of the application to search for data about a country by its partial or full name.</br>
 <a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-js-hw-10/">**Live page**</img></a></br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-10">**View code**</img></a>
 </br></br>
+
 Front-end part of the application to search and view images by keyword.</br>
 <a target="_blank" rel="noopener noreferrer" href="">**Live page**</img></a></br>
 <a target="_blank" rel="noopener noreferrer" href="">**View code**</img></a>
