@@ -36,7 +36,7 @@ Front-end part of the application to search for data about a country by its part
 
 Front-end part of the application to search and view images by keyword.</br>
 <a target="_blank" rel="noopener noreferrer" href="">**Live page**</img></a></br>
-<a target="_blank" rel="noopener noreferrer" href="">**View code**</img></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-11">**View code**</img></a>
 
 <!--
 **korolovdmitriy/korolovdmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
