@@ -29,7 +29,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/Patterns">**View code**</img></a>
 </br>
 
-⚡ A timer script that counts down to a specific date. This timer can be used on blogs and online stores, event registration pages, during maintenance, etc.</br>
+⚡ A timer script that counts down to a specific date.</br>
 <a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-js-hw-09/02-timer.html">**Live page**</img></a> | 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-09/blob/main/src/js/02-timer.js">**View code**</img></a>
 </br>
