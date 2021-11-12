@@ -24,7 +24,7 @@
 
 ⚡ **Pet-progect**</br></br>
 
-Workshop: filters. Filter with a choice of one parameter and Multiple selection filter</br>
+Workshop: Filter with a choice of one parameter | Multiple selection filter</br>
 <a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/Patterns/">**Live page**</img></a></br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/Patterns">**View code**</img></a>
 </br></br>
