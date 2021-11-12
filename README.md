@@ -24,23 +24,23 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="20">  **Pet-progect**</br></br>
 
-Workshop: Filter with a choice of one parameter | Multiple selection filter</br>
-<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/Patterns/">**Live page**</img></a></br>
+⚡ Filter with a choice of one parameter | Multiple selection filter</br>
+<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/Patterns/">**Live page**</img></a> | 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/Patterns">**View code**</img></a>
-</br></br>
+</br>
 
-A timer script that counts down to a specific date. This timer can be used on blogs and online stores, event registration pages, during maintenance, etc.</br>
-<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-js-hw-09/02-timer.html">**Live page**</img></a></br>
+⚡ A timer script that counts down to a specific date. This timer can be used on blogs and online stores, event registration pages, during maintenance, etc.</br>
+<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-js-hw-09/02-timer.html">**Live page**</img></a> | 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-09/blob/main/src/js/02-timer.js">**View code**</img></a>
-</br></br>
+</br>
 
-Front-end part of the application to search for data about a country by its partial or full name.</br>
-<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-js-hw-10/">**Live page**</img></a></br>
+⚡ Front-end part of the application to search for data about a country by its partial or full name.</br>
+<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-js-hw-10/">**Live page**</img></a> | 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-10">**View code**</img></a>
-</br></br>
+</br>
 
-Front-end part of the application to search and view images by keyword.</br>
-<a target="_blank" rel="noopener noreferrer" href="">**Live page**</img></a></br>
+⚡ Front-end part of the application to search and view images by keyword.</br>
+<a target="_blank" rel="noopener noreferrer" href="">**Live page**</img></a> | 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-11">**View code**</img></a>
 
 <!--
