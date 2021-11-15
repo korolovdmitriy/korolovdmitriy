@@ -40,7 +40,7 @@
 </br>
 
 ⚡ Front-end part of the application weather.</br>
-<a target="_blank" rel="noopener noreferrer" href="Front-end part of the application weather.">**Live page**</img></a> | 
+<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/weather/">**Live page**</img></a> | 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/weather">**View code**</img></a>
 
 <!--
