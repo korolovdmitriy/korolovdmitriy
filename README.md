@@ -39,9 +39,14 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-10">**View code**</img></a>
 </br>
 
-⚡ Front-end part of the application to search and view images by keyword.</br>
-<a target="_blank" rel="noopener noreferrer" href="">**Live page**</img></a> | 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-11">**View code**</img></a>
+⚡ Front-end part of the application to search for data about a country by its partial or full name.</br>
+<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-js-hw-10/">**Live page**</img></a> | 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-10">**View code**</img></a>
+</br>
+
+⚡ Front-end part of the application weather.</br>
+<a target="_blank" rel="noopener noreferrer" href="Front-end part of the application weather.">**Live page**</img></a> | 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/weather">**View code**</img></a>
 
 <!--
 **korolovdmitriy/korolovdmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
