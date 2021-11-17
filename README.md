@@ -24,9 +24,9 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="20">  **Pet-projects**</br></br>
 
-⚡ Filter with a choice of one parameter | Multiple selection filter</br>
-<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/Patterns/">**Live page**</img></a> | 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/Patterns">**View code**</img></a>
+⚡ Front-end part of the application to search and view images by keyword.</br>
+<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-js-hw-11/">**Live page**</img></a> | 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-11">**View code**</img></a>
 </br>
 
 ⚡ A timer script that counts down to a specific date.</br>
