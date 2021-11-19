@@ -29,8 +29,8 @@
 </br>
                                                                                                 
 ⚡ Mobile-first adaptive landing page to introduce design company studios with order and contact forms (team project).</br>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/6th-team-project">**Live page**</img></a> | 
-<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/6th-team-project/">**View code**</img></a>
+<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/6th-team-project/">**Live page**</img></a> | 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/6th-team-project">**View code**</img></a>
 </br></br>  
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="20">  **Pet-projects**</br></br>
