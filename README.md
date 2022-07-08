@@ -21,38 +21,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/korolovdmitro"><img src="https://www.codewars.com/users/korolovdmitro/badges/large"></img></a>
 
 ***
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="20"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="20">  **Pet-projects**</br>
 
-⚡ Mobile-first adaptive landing page to introduce web studio with order form (own project).</br>
-<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-markup-hw-08/">**Live page**</img></a> | 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-markup-hw-08">**View code**</img></a>
-</br>
-                                                                                                
-⚡ Mobile-first adaptive landing page to introduce design company studios with order and contact forms (team project).</br>
-<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/6th-team-project/">**Live page**</img></a> | 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/6th-team-project">**View code**</img></a>
-</br></br>  
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="20">  **Pet-projects**</br></br>
-
-⚡ Front-end part of the application to search and view images by keyword.</br>
-<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-js-hw-11/">**Live page**</img></a> | 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-11">**View code**</img></a>
-</br>
-
-⚡ A timer script that counts down to a specific date.</br>
-<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-js-hw-09/02-timer.html">**Live page**</img></a> | 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-09/blob/main/src/js/02-timer.js">**View code**</img></a>
-</br>
-
-⚡ Front-end part of the application to search for data about a country by its partial or full name.</br>
-<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/goit-js-hw-10/">**Live page**</img></a> | 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/goit-js-hw-10">**View code**</img></a>
-</br>
-
-⚡ Front-end part of the application weather.</br>
-<a target="_blank" rel="noopener noreferrer" href="https://korolovdmitriy.github.io/weather/">**Live page**</img></a> | 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/korolovdmitriy/weather">**View code**</img></a>
 
 <!--
 **korolovdmitriy/korolovdmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
