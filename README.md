@@ -1,4 +1,4 @@
-### Hi there, I'am Dmitro 👋
+### Hi there, I'am Dmytro 👋
 - 📫 How to reach me: korolovdmitriy2021@gmail.com
 ***
 
